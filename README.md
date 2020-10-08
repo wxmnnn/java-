@@ -72,4 +72,6 @@ Test（主类）的要求
 ⑤ pc调用setHardDisk (HardDisk h)方法，调用时实参是disk，
 ⑥ pc调用show()方法。
 ## 实验结果
-在文件里
+https://github.com/wxmnnn/java-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008200632.jpg
+## 实验感想
+第一次进行java实验发现了java较其他语言更加简洁，要应用主类来实现实验，但对java知识还很浅，需要补充知识来顺利进行实验。
