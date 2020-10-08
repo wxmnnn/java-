@@ -72,3 +72,4 @@ Test（主类）的要求
 ⑤ pc调用setHardDisk (HardDisk h)方法，调用时实参是disk，
 ⑥ pc调用show()方法。
 ## 实验结果
+在文件里
